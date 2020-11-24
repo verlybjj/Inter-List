@@ -40,10 +40,10 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}  
+}
 body {
   /* background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%); */
-  background-image: linear-gradient(120deg, #0066AA 0%, #151516 100%);
+  background-image: linear-gradient(120deg, #0066aa 0%, #151516 100%);
   color: white;
   font-family: "Poppins", sans-serif;
   min-height: 100vh;
@@ -67,13 +67,13 @@ form button {
   background: white;
 }
 form button {
-  color: #E7B512;
+  color: #e7b512;
   background: #f7fffe;
   cursor: pointer;
   transition: all 0.3s ease;
 }
 form button:hover {
-  background: #E7B512;
+  background: #e7b512;
   color: white;
 }
 .todo-container {
@@ -167,11 +167,10 @@ select {
   top: 0;
   right: 0;
   padding: 1rem;
-  background: #E7B512;
+  background: #e7b512;
   cursor: pointer;
   pointer-events: none;
   transition: all 0.3s ease;
-
 }
 /* Transition */
 
@@ -183,7 +182,7 @@ select {
   color: #bd9205;
 }
 
-.logo{
+.logo {
   align-items: center;
   width: 100px;
 }
@@ -195,6 +194,6 @@ select {
   margin-top: 40px;
 }
 
-h1{
-  color: #E7B512;
+h1 {
+  color: #e7b512;
 }
